@@ -41,7 +41,7 @@ I've recently participated in Dare IT Challenge as manual tester and also took 7
 * Curly IT (curly_it)
 
 # Projects from courses
-* My coded in Visual Studio Code CV made during HTML/CSS marathon with GoIT [HERE](https://lucent-meerkat-f9edb7.netlify.app/)
+* My coded in Visual Studio Code CV made during HTML/CSS marathon with GoIT :point_right: [HERE](https://lucent-meerkat-f9edb7.netlify.app/)
 * Dare IT Challenge tasks:
   * [Test cases](https://docs.google.com/spreadsheets/d/1rGu57qn0IdWP1_3YaCT3b9rxNTlUJVlFymQebloicxw/edit#gid=0) / [Test cases 2](https://docs.google.com/spreadsheets/d/1sfz2hqsLsrdWFUQKjtwgV5G_kOTplzmiu4QXpamDY8g/edit)
   * [Bugs](https://docs.google.com/spreadsheets/d/1vKMLvCxi0sO3O3yxstgoZ5OXnYVuoZ29bLUyg8ofTi0/edit#gid=0) / [Bugs 2](https://docs.google.com/spreadsheets/d/1eUQ28OViTIZt6eofay6IeRoSz7wi9ZEkwDnPD2JWDf8/edit)
